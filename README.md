@@ -24,6 +24,9 @@
 
 ### 📱 Телефон на Android
 
+> [!IMPORTANT]
+> Последняя версия для Android — **[0.2.4](https://github.com/nazar-msk/kivin-releases/releases/tag/v0.2.4)**: в 0.2.5 только файлы для Windows.
+
 | Файл заканчивается на | Для каких телефонов |
 |---|---|
 | ⭐ **`arm64-v8a.apk`** | Почти все телефоны с 2017 года. **Начните с него** |
@@ -32,9 +35,6 @@
 | `x86_64.apk` | Эмуляторы и Chromebook |
 
 ### 💻 Компьютер на Windows
-
-> [!IMPORTANT]
-> Последняя версия для Windows — **[0.2.3](https://github.com/nazar-msk/kivin-releases/releases/tag/v0.2.3)**: в 0.2.4 только файлы для Android.
 
 | Файл заканчивается на | Для каких компьютеров |
 |---|---|
