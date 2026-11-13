@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nazar-msk/kivin-releases/releases/latest"><img alt="Последняя версия" src="https://img.shields.io/github/v/release/nazar-msk/kivin-releases?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=7C3AED"></a>
+  <a href="https://github.com/joker-vpn/kivin-releases/releases/latest"><img alt="Последняя версия" src="https://img.shields.io/github/v/release/joker-vpn/kivin-releases?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=7C3AED"></a>
   <img alt="Android" src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows&logoColor=white">
   <img alt="GPL-3.0" src="https://img.shields.io/badge/%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F-GPL--3.0-555">
 </p>
 
 <p align="center">
-  <a href="https://github.com/nazar-msk/kivin-releases/releases/latest"><b>📥 Скачать последнюю версию</b></a>
+  <a href="https://github.com/joker-vpn/kivin-releases/releases/latest"><b>📥 Скачать последнюю версию</b></a>
 </p>
 
 ---
